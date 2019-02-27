@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Largest
+public class Largest num
 {
   public static void main(String args[])
   {

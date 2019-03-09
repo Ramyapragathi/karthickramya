@@ -1,13 +1,13 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class integer
+class sum
 {
 	public static void main(String[] args) 
 	{   
-		Scanner ob = new Scanner(System.in);
-   		int a = ob.nextInt();
-  		int b = ob.nextInt();
+		Scanner s = new Scanner(System.in);
+   		int a = s.nextInt();
+  		int b = s.nextInt();
   		int [][]m = new int[a][b];
         int n=0,i,j;
         for(i=1; i<=a; i++) 

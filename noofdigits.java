@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class ncount
+class count
 {
 	public static void main(String[] args) 
 	{

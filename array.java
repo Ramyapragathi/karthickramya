@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class n integer
+class integer
 {
 	public static void main(String[] args) 
 	{   
